@@ -2,7 +2,7 @@
 # LM
 # XML
 
-1- Listar todos los libros con sus autores
+1- Listar todos los libros
 
 2- Contar los libros que hay en la hay
 
